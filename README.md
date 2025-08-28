@@ -1,6 +1,6 @@
 # Template Modul Lab Informatika Universitas Syiah Kuala
 
-Author: Diky Wahyudi
+Author: Muhammad Mahathir
 
 ## Compiler
 
